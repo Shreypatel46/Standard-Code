@@ -582,3 +582,6 @@ Test the Alarm
 •       Sudo yum install stress -y
 
 •       Stress  --cpu 1 –timeout 60
+
+
+<img width="1698" height="45" alt="image" src="https://github.com/user-attachments/assets/bfaa89b3-955e-4312-b7d4-998b79b735f1" />
