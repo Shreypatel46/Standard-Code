@@ -585,3 +585,7 @@ Test the Alarm
 
 
 <img width="1698" height="45" alt="image" src="https://github.com/user-attachments/assets/bfaa89b3-955e-4312-b7d4-998b79b735f1" />
+
+<img width="1225" height="638" alt="image" src="https://github.com/user-attachments/assets/fa7a0a87-1935-4933-9811-08366505eb73" />
+
+<img width="1223" height="630" alt="image" src="https://github.com/user-attachments/assets/0bc58c9d-c256-4922-bef7-6f4bf417e015" />
