@@ -106,7 +106,7 @@ Rule 2 (HTTP):
 
 Advanced details section - User data box
 
-#!/bin/bash
+```#!/bin/bash
 
 yum update -y
 
@@ -117,6 +117,7 @@ systemctl start httpd
 systemctl enable httpd
 
 echo "Hello from $(hostname -f)" > /var/www/html/index.html
+```
 
 **Step 3: Launch Instances in Different Availability Zones**
 
