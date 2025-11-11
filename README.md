@@ -1,5 +1,13 @@
 # Standard-Code
 
+## project zip code 
+Linux:
+```zip -r ../myapp.zip ./*```
+
+Windows:
+```Compress-Archive -Path * -DestinationPath ../myapp.zip```
+
+
 ## S3 Code 
 ```
 {
